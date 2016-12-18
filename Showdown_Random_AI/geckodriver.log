@@ -1,0 +1,1015 @@
+1482008606625	geckodriver	INFO	Listening on 127.0.0.1:54064
+1482008607597	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.m47X8suvQlDw
+1482008607598	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482008607600	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41877
+1482008608418	Marionette	INFO	Listening on port 41877
+1482008700656	geckodriver	INFO	Listening on 127.0.0.1:34340
+1482008701633	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Mz89qHJ8ZaG1
+1482008701635	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482008701637	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32945
+1482008702815	Marionette	INFO	Listening on port 32945
+1482008722598	geckodriver	INFO	Listening on 127.0.0.1:41557
+1482008723590	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kV1Da32zyepD
+1482008723591	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482008723596	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44309
+1482008724396	Marionette	INFO	Listening on port 44309
+
+(firefox:6316): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6316): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6316): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6316): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6316): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 6358] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 6358] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6358] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482008779052	geckodriver	INFO	Listening on 127.0.0.1:45438
+1482008780047	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gHEoG9BSwsDG
+1482008780048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482008780049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33415
+1482008780996	Marionette	INFO	Listening on port 33415
+
+(firefox:6420): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6420): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6420): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6420): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6420): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 6463] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 6463] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6463] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482008810076	geckodriver	INFO	Listening on 127.0.0.1:56293
+1482008811075	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jEWgeWsa3Vsx
+1482008811075	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482008811081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32979
+1482008812019	Marionette	INFO	Listening on port 32979
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:6513): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 6558] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 6558] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6558] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript warning: https://cdn.adsafeprotected.com/sca.js, line 1: SyntaxError: for-in loop head declarations may not have initializers
+JavaScript error: https://sdk.vindicosuite.com/verify/latest/verify.js?event=1&iid=SM__adt__51750043409771482020538-779111504&pid=0&lid=0&clid=3&aid=0&cid=0&crid=0&pt=3&ppid=1&pioid=&pbkid=311556&pcid=981533&plid=517500&dur=0&adw=300&adh=250&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D517500%3Bb%3D4340977%3Bc%3D981533%3Bsmuid%3D%3Bmsd%3D%3Bta%3D1482020538%3Btk%3D68076%3Bcr%3D2312605876%3Bad%3DCPzKHxCpgQ0Y5gsgASgEMLsQON21AUCEghNIheAUUJ30O1jx%252BYgCYABokqEkcAF4AYgBAJABAJgBAKIBEzY2NjA0Mzc5OTk2MzM2ODA4NziyAQhDUkVBVElWRbgBAMABAMgBANABANgBAOgB%252BpO7%252BpAr%3Bxid%3D6660437999633680878%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1482020538&vsel=1, line 3: NS_ERROR_FAILURE: 
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/layout/utils.js, line 33: NS_NOINTERFACE: 
+1482020604182	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1482020604203	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing author: An unexpected property was found in the WebExtension manifest.
+1482020604204	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1482020604205	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1482020606889	addons.webextension.firefox@ghostery.com	WARN	Loading extension 'firefox@ghostery.com': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1482020607005	addons.webextension.firefox@ghostery.com	WARN	Loading extension 'firefox@ghostery.com': Reading manifest: Error processing author: An unexpected property was found in the WebExtension manifest.
+1482020607006	addons.webextension.firefox@ghostery.com	WARN	Loading extension 'firefox@ghostery.com': Reading manifest: Error processing version_name: An unexpected property was found in the WebExtension manifest.
+1482020607006	addons.webextension.firefox@ghostery.com	WARN	Loading extension 'firefox@ghostery.com': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1482020607117	addons.webextension.firefox@ghostery.com	WARN	Please specify whether you want browser_style or not in your browser_action options.
+TabSources.prototype._fetchSourceMap threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm%20-%3E%20moz-extension://acd3f1c7-6aa3-4399-9567-194893c4cdf4/dist/resource_timing.js.map'"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch :: line 500"  data: yes]
+Stack: mainThreadFetch@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:500:5
+TabSources.prototype._fetchSourceMap@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:467:20
+TabSources.prototype.fetchSourceMap@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:420:18
+TabSources.prototype._emitNewSource@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:214:7
+TabSources.prototype.source@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:194:5
+TabSources.prototype.createNonSourceMappedActor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:351:12
+ThreadActor<._addSource@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:1928:23
+ThreadActor<.onNewScript@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:1888:5
+tryInject@resource://gre/modules/ExtensionContent.jsm:280:20
+execute@resource://gre/modules/ExtensionContent.jsm:449:5
+addScript@resource://gre/modules/ExtensionContent.jsm:454:5
+startupExtension@resource://gre/modules/ExtensionContent.jsm:701:13
+receiveMessage@resource://gre/modules/ExtensionContent.jsm:824:9
+Line: 500, column: 0
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm%20-%3E%20moz-extension://acd3f1c7-6aa3-4399-9567-194893c4cdf4/dist/resource_timing.js.map'"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch :: line 500"  data: yes]
+Stack: mainThreadFetch@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/DevToolsUtils.js:500:5
+TabSources.prototype._fetchSourceMap@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:467:20
+TabSources.prototype.fetchSourceMap@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:420:18
+TabSources.prototype._emitNewSource@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:214:7
+TabSources.prototype.source@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:194:5
+TabSources.prototype.createNonSourceMappedActor@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:351:12
+ThreadActor<._addSource@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:1928:23
+ThreadActor<.onNewScript@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/script.js:1888:5
+tryInject@resource://gre/modules/ExtensionContent.jsm:280:20
+execute@resource://gre/modules/ExtensionContent.jsm:449:5
+addScript@resource://gre/modules/ExtensionContent.jsm:454:5
+startupExtension@resource://gre/modules/ExtensionContent.jsm:701:13
+receiveMessage@resource://gre/modules/ExtensionContent.jsm:824:9
+Line: 500, column: 0
+1482020647617	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+1482020647630	addons.xpi	WARN	Add-on {7eb3f691-25b4-4a85-9038-9e57e2bcd537} is not compatible with application version.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+1482021104427	geckodriver	INFO	Listening on 127.0.0.1:42822
+1482021105420	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.U25tCqFLENki
+1482021105421	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021105440	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35061
+1482021106349	Marionette	INFO	Listening on port 35061
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f53b63456a0' of type 'MaiAtkType139'
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7152): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7192] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7192] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021175293	geckodriver	INFO	Listening on 127.0.0.1:41146
+1482021176288	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fjegFX4SEqRW
+1482021176289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021176290	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42839
+1482021177407	geckodriver	INFO	Listening on 127.0.0.1:37294
+1482021177546	Marionette	INFO	Listening on port 42839
+1482021178391	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5gL8isA3qbEW
+1482021178391	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021178401	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42624
+1482021181201	Marionette	INFO	Listening on port 42624
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f30d6140560' of type 'MaiAtkType139'
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f9530b200b0' of type 'MaiAtkType139'
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7274): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7347] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7347] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7347] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7326): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7397] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7397] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7397] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7397] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021285819	geckodriver	INFO	Listening on 127.0.0.1:36862
+1482021286805	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9m94VSYQlSLJ
+1482021286806	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021286808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36889
+1482021287700	Marionette	INFO	Listening on port 36889
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7487): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7527] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7527] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7527] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021372188	geckodriver	INFO	Listening on 127.0.0.1:36292
+1482021373185	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O5LPx7LXEHb5
+1482021373186	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021373190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37265
+1482021374210	Marionette	INFO	Listening on port 37265
+
+(firefox:7595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7595): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7638] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7638] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7638] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021436559	geckodriver	INFO	Listening on 127.0.0.1:39097
+1482021437557	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HoNWwMx5474x
+1482021437557	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021437559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42331
+1482021438604	Marionette	INFO	Listening on port 42331
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7693): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7733] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7733] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021464350	geckodriver	INFO	Listening on 127.0.0.1:35803
+1482021465347	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LdwPV7zAzHRg
+1482021465347	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021465350	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39256
+1482021466196	Marionette	INFO	Listening on port 39256
+
+(firefox:7784): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7784): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7784): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7784): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7784): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7824] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 7824] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7824] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021492877	geckodriver	INFO	Listening on 127.0.0.1:57786
+1482021493865	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Th3iuQJDjlKL
+1482021493866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021493874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34921
+1482021495091	Marionette	INFO	Listening on port 34921
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7880): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 7922] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7922] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021613502	geckodriver	INFO	Listening on 127.0.0.1:33967
+1482021614499	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PX4lhSJzq5gM
+1482021614500	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021614503	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45573
+1482021615410	Marionette	INFO	Listening on port 45573
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7996): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Vector smash protection is enabled.
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6535472412829264&format=336x280&output=html&h=280&slotname=3029313334&adk=1127803819&adf=1745964834&w=336&lmt=1481968441&flash=11.2.202&url=http%3A%2F%2Fplay.pokemonshowdown.com%2F&wgl=1&dt=1482021621511&bpp=19&bdt=2626&fdt=464&idt=610&shv=r20161205&cbv=r20161129&saldr=aa&prev_fmts=336x280&correlator=5732802669795&frm=20&ga_vid=1666774063.1482021621&ga_sid=1482021622&ga_hid=2019989334&ga_fc=0&pv=1&icsg=2&nhd=1&dssz=2&mdo=0&mso=0&u_tz=0&u_his=1&u_java=0&u_h=800&u_w=1600&u_ah=767&u_aw=1600&u_cd=24&u_nplug=2&u_nmime=51&dff=verdana&dfs=14&adx=644&ady=608&biw=1280&bih=619&eid=33509837%2C575144605&oid=3&rx=0&eae=0&fc=16&pc=1&brdim=%2C%2C0%2C63%2C1600%2C0%2C1280%2C690%2C1280%2C619&vis=1&rsz=%7C%7CaeE%7C&abl=CA&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=tYWVxEsDVd&p=http%3A//play.pokemonshowdown.com&dtd=657, line 0: SyntaxError: missing ) after argument list
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_nvidia.so: cannot open shared object file: No such file or directory
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+[NPAPI 8083] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[NPAPI 8083] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8036] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8036] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8036] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482021693527	geckodriver	INFO	Listening on 127.0.0.1:32770
+1482021694520	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xYSDJHSUf0g3
+1482021694520	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021694521	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33614
+1482021695401	Marionette	INFO	Listening on port 33614
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8137): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482021746905	geckodriver	INFO	Listening on 127.0.0.1:57695
+1482021747906	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.0uQiprXRO7WE
+1482021747906	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021747917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43115
+1482021749677	Marionette	INFO	Listening on port 43115
+[Child 8181] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8181] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8181] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8181] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4ab0' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4ab0' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4ab0' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4ab0' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4a10' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4a10' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4a10' of type 'MaiAtkType139'
+
+(firefox:8252): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f03ffbd4a10' of type 'MaiAtkType139'
+[Child 8292] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8292] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8292] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFFB,name=???) Channel error: cannot send/recv
+
+[Child 8292] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+1482021838560	geckodriver	INFO	Listening on 127.0.0.1:32983
+1482021839558	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IGgcKet19ivU
+1482021839559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482021839561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38184
+1482021840518	Marionette	INFO	Listening on port 38184
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8405] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+[Child 8405] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8405] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8405] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482022005807	geckodriver	INFO	Listening on 127.0.0.1:48874
+1482022006788	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KKVfOVyaRCdJ
+1482022006789	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482022006790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40523
+1482022007692	Marionette	INFO	Listening on port 40523
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8471): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8514] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8514] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482022093644	geckodriver	INFO	Listening on 127.0.0.1:35435
+1482022094643	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DPuNpZ8f2HkI
+1482022094644	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482022094646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40218
+1482022095518	Marionette	INFO	Listening on port 40218
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8580): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8620] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8620] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482022170515	geckodriver	INFO	Listening on 127.0.0.1:50202
+1482022171515	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DUnGBRtMmkKn
+1482022171516	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482022171520	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37504
+1482022172490	Marionette	INFO	Listening on port 37504
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8677): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8717] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8717] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482022198743	geckodriver	INFO	Listening on 127.0.0.1:41513
+1482022199739	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.71wvyBbEQutn
+1482022199739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482022199741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40264
+1482022200568	Marionette	INFO	Listening on port 40264
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8767): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8807] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8807] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8807] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8807] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482023947215	geckodriver	INFO	Listening on 127.0.0.1:47642
+1482023948214	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.viMs5gkAGBi7
+1482023948215	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482023948219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36669
+1482023949291	Marionette	INFO	Listening on port 36669
+
+(firefox:8889): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8889): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8889): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8889): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8889): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8931] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 8931] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8931] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482024094328	geckodriver	INFO	Listening on 127.0.0.1:51397
+1482024095320	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yKlMt0tDQt0B
+1482024095320	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024095322	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41923
+1482024096359	Marionette	INFO	Listening on port 41923
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8995): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482024152909	geckodriver	INFO	Listening on 127.0.0.1:44388
+1482024153878	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zDzytqvvN4vo
+1482024153880	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024153888	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42891
+1482024154949	Marionette	INFO	Listening on port 42891
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9106): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f62eaa22a10' of type 'MaiAtkType13b'
+
+(firefox:9106): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f62eac90150' of type 'MaiAtkType139'
+
+(firefox:9106): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f62f7a6b150' of type 'MaiAtkType13b'
+
+(firefox:9106): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 9148] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x9C0001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+[Child 9148] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 9148] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9148] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1482024201505	geckodriver	INFO	Listening on 127.0.0.1:56264
+1482024202498	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AylhoSVMYojl
+1482024202499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024202505	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35309
+1482024203578	Marionette	INFO	Listening on port 35309
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9211): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efdf7544d80' of type 'MaiAtkType13b'
+
+(firefox:9211): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efdf2906d30' of type 'MaiAtkType139'
+
+(firefox:9211): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efdd6bed9c0' of type 'MaiAtkType13b'
+
+(firefox:9211): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efdf2906d30' of type 'MaiAtkType139'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1482024765893	geckodriver	INFO	Listening on 127.0.0.1:45823
+1482024766886	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vp2ygenDm8eu
+1482024766895	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024766900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34753
+1482024767882	Marionette	INFO	Listening on port 34753
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9473): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482024797497	geckodriver	INFO	Listening on 127.0.0.1:46067
+1482024798497	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.H90b5Sa50NvV
+1482024798497	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024798499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42162
+1482024799464	Marionette	INFO	Listening on port 42162
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9581): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f815db6b880' of type 'MaiAtkType13b'
+
+(firefox:9581): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f815db6b880' of type 'MaiAtkType13b'
+1482024852345	geckodriver	INFO	Listening on 127.0.0.1:35456
+1482024853334	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.v3IzNlbR6sYh
+1482024853335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482024853344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33773
+1482024854378	Marionette	INFO	Listening on port 33773
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9729): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f251456ef60' of type 'MaiAtkType139'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+
+(firefox:9729): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f25238d8470' of type 'MaiAtkType139'
+
+(firefox:9211): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efdd8c830b0' of type 'MaiAtkType139'
+ExceptionHandler::GenerateDump cloned child 11007
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::GenerateDump cloned child 11012
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+1482090594047	geckodriver	INFO	Listening on 127.0.0.1:40451
+1482090595016	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.o1QlenwDmkb7
+1482090595016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482090595022	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46463
+1482090599189	Marionette	INFO	Listening on port 46463
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1482090768426	geckodriver	INFO	Listening on 127.0.0.1:35019
+1482090769419	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rmMpxZQvEoXY
+1482090769419	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482090769439	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41960
+1482090775792	Marionette	INFO	Listening on port 41960
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11257): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: , line 0: uncaught exception: undefined
+1482091632871	geckodriver	INFO	Listening on 127.0.0.1:51377
+1482091633821	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zm5B4IhcTfrE
+1482091633822	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482091633832	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41259
+1482091650485	Marionette	INFO	Listening on port 41259
+1482091674749	geckodriver	INFO	Listening on 127.0.0.1:48120
+1482091675669	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mZVm2wwH3AuC
+1482091675670	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1482091675678	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35129
+
+(firefox:11144): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 2967: TypeError: this.tabs is undefined
+ExceptionHandler::GenerateDump cloned child 11562
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1482091705798	Marionette	INFO	Listening on port 35129
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+ExceptionHandler::GenerateDump cloned child 11571
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error: Broken pipe: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Parent 11144] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Parent 11144] WARNING: pipe error (52): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11C0008,name=PWebSocket::Msg_OnStop) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/components/nsPrompter.js, line 352: NS_ERROR_NOT_AVAILABLE: Cannot call openModalWindow on a hidden window
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 1: Error: Script terminated by timeout at:
+t.exports@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:1349
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:10:1110
+n@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:102
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:10:23962
+n@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:102
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:9:12702
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:9:12597
+n@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:102
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:487
+n@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:102
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:194
+@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js:1:2
+
+ExceptionHandler::GenerateDump cloned child 11595
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 9581] WARNING: pipe error (51): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x4A0044,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+ExceptionHandler::GenerateDump cloned child 11607
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11C000B,name=PWebSocket::Msg_OnAcknowledge) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11C0008,name=PWebSocket::Msg_OnStop) Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000E,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+ExceptionHandler::GenerateDump cloned child 11617
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 11448] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Parent][OnMaybeDequeueOne] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000E,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:315:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:259:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:230:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:243:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:147:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
+
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:11510): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+JavaScript error: , line 0: uncaught exception: undefined
